@@ -1,5 +1,6 @@
 # Naive-Sorted-TEV
 The main object is to obtain the **overlapping and non-overlapping** data of Sorted and Naive library of wtTEV and PE10-TEV
+Main Function: FileReading.py and FileReading_PE10.py
 
 ## 2021-05-23
 ### Functions that are used:
